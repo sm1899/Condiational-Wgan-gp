@@ -52,7 +52,7 @@ The discriminator takes an image and a class label as input and predicts whether
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/yourusername/cwgan-gp-image-generation.git
+   git clone https://github.com/sm1899/cwgan-gp-image-generation.git
    cd cwgan-gp-image-generation
    ```
 
